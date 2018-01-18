@@ -1,0 +1,1 @@
+set PATH=%PATH%;C:\Users\Gerd\DevProjects\Cpp\VSEclipseWorkshop\DynamicLib\Debug
